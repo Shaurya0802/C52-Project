@@ -6,11 +6,11 @@
     font-family : Arial;
     font-weight : bold;
 
-    border-top : 10px ridge red;
-    border-bottom : 10px ridge red;
+    border-top : 10px ridge #FF0000;
+    border-bottom : 10px ridge #FF0000;
 
-    border-right : 10px ridge rgb(0,0,40);
-    border-left : 10px ridge rgb(0,0,40);
+    border-right : 10px ridge #000028;
+    border-left : 10px ridge #000028;
 }
 
 .grid{
@@ -20,57 +20,57 @@
 }
 
 .item{
-    border-right : 10px ridge red;
-    border-left : 10px ridge red;
+    border-right : 10px ridge #FF0000;
+    border-left : 10px ridge #FF0000;
 
-    border-top : 10px ridge rgb(0,0,40);
-    border-bottom : 10px ridge rgb(0,0,40);
+    border-top : 10px ridge #000028;
+    border-bottom : 10px ridge #000028;
 }
 
 .item2{
-    border-top : 10px ridge red;
-    border-bottom : 10px ridge red;
+    border-top : 10px ridge #FF0000;
+    border-bottom : 10px ridge #FF0000;
 
-    border-right : 10px ridge rgb(0,0,40);
-    border-left : 10px ridge rgb(0,0,40);
+    border-right : 10px ridge #000028;
+    border-left : 10px ridge #000028;
 
     cursor : pointer;
 }
 
 .item3{
-    border-right : 10px ridge red;
-    border-left : 10px ridge red;
+    border-right : 10px ridge #FF0000;
+    border-left : 10px ridge #FF0000;
 
-    border-top : 10px ridge rgb(0,0,40);
-    border-bottom : 10px ridge rgb(0,0,40);
+    border-top : 10px ridge #000028;
+    border-bottom : 10px ridge #000028;
 
     cursor : pointer;
 }
 
 .item4{
-    border-top : 10px ridge red;
-    border-bottom : 10px ridge red;
+    border-top : 10px ridge #FF0000;
+    border-bottom : 10px ridge #FF0000;
 
-    border-right : 10px ridge rgb(0,0,40);
-    border-left : 10px ridge rgb(0,0,40);
+    border-right : 10px ridge #000028;
+    border-left : 10px ridge #000028;
 
     cursor : pointer;
 }
 
 .item5{
-    border-top : 10px ridge red;
-    border-bottom : 10px ridge red;
+    border-top : 10px ridge #FF0000;
+    border-bottom : 10px ridge #FF0000;
 
-    border-right : 10px ridge rgb(0,0,40);
-    border-left : 10px ridge rgb(0,0,40);
+    border-right : 10px ridge #000028;
+    border-left : 10px ridge #000028;
 }
 
 .item6{
-    border-top : 10px ridge red;
-    border-bottom : 10px ridge red;
+    border-top : 10px ridge #FF0000;
+    border-bottom : 10px ridge #FF0000;
 
-    border-right : 10px ridge rgb(0,0,40);
-    border-left : 10px ridge rgb(0,0,40);
+    border-right : 10px ridge #000028;
+    border-left : 10px ridge #000028;
 
     cursor : pointer;
 }
@@ -80,11 +80,11 @@
     flex-wrap: wrap;
     justify-content: center;
 
-    border-right : 10px ridge red;
-    border-left : 10px ridge red;
+    border-right : 10px ridge #FF0000;
+    border-left : 10px ridge #FF0000;
 
-    border-top : 10px ridge rgb(0,0,40);
-    border-bottom : 10px ridge rgb(0,0,40);
+    border-top : 10px ridge #000028;
+    border-bottom : 10px ridge #000028;
 
     cursor : pointer;
 }
@@ -99,12 +99,11 @@ h3,p,u,b{
 }
 
 body{
-    background-color : rgb(255, 233, 213);
-    transition-property: color;
-    transition-duration: .3s;
-    border-left : 30px ridge red;
-    border-right : 30px ridge red;
+    background-color : #FFE9D5;
 
-    border-top : 30px ridge rgb(0,0,40);
-    border-bottom : 30px ridge rgb(0,0,40);
+    border-left : 30px ridge #FF0000;
+    border-right : 30px ridge #FF0000;
+
+    border-top : 30px ridge #000028;
+    border-bottom : 30px ridge #000028;
 }
